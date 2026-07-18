@@ -28,7 +28,7 @@ along the way.
 
 ## Skills Gained So Far
 (update weekly)
-- [ ] OOP and class design
+- [cheked] OOP and class design
 - [ ] Data structures from scratch
 - [ ] Algorithm analysis
 - [ ] FastAPI backend development
